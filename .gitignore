@@ -3,3 +3,4 @@ build/
 .flatpak-builder/
 .mo
 __pycache__/
+run/
